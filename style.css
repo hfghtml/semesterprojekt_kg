@@ -3,7 +3,7 @@
 }
 
 body {
-	background-color: green;
+	background-color: red;
 }
 
 /* RESETS */
@@ -16,7 +16,6 @@ html, body, h1, h2, p {
 h1 {
 	font-size: 18px;
 	font-weight: bold;
-	text-decoration: underline;
 }
 
 h2 {
